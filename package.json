@@ -1,0 +1,17 @@
+{
+  "name": "watumean",
+  "version": "1.0.0",
+  "description": "its a one man thousand project about to talking speaking skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^14.13.0",
+    "nodemon": "^3.1.3"
+  }
+}
